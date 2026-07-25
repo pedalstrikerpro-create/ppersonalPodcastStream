@@ -3,7 +3,7 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
-  <channel>
+  <<channel>
 
     <title>JCB A-Book Feed</title>
     <link>https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/risingFeed.xml</link>
@@ -13,6 +13,15 @@
     <itunes:author>Clement Brooks</itunes:author>
     <itunes:summary>Private podcast feed for me and friends.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+
+    <itunes:owner>
+        <itunes:name>Clement Brooks</itunes:name>
+        <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:category text="Books"/>
+
+    <itunes:image href="https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/artwork.jpg"/>
 
     <item>
 
