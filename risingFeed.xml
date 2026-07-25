@@ -1,52 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
   <channel>
+
     <title>JCB A-Book Feed</title>
     <link>https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/risingFeed.xml</link>
     <description>Private podcast feed for me and friends</description>
     <language>en-us</language>
 
+    <itunes:author>Clement Brooks</itunes:author>
+    <itunes:summary>Private podcast feed for me and friends.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+
     <item>
+
       <title>Golden Son Part 2</title>
       <description>Pierce Brown</description>
       <enclosure url="https://drive.google.com/uc?export=download&id=16o5NZTsfqjFpTJ4QihEfJRfbwCjbl8iI" length="829500000" type="audio/mpeg"/>
       <guid>episode 4</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-    <title>{{ Golden Son Part 2 }}</title>
-    <enclosure url={{ "https://drive.google.com/uc?export=download&id=16o5NZTsfqjFpTJ4QihEfJRfbwCjbl8iI" }} type="{{ "audio/mpeg" }}" length="{{ "829500000" }}" />
-    <guid>{{ episode 4 }}</guid>
-    <pubDate>{{ Mon, 22 Jul 2024 10:00:00 }}</pubDate>
-    <description><![CDATA[
-        {"Pierce Brown"}
-    ]]></description>
+
     </item>
 
     <item>
+
       <title>Golden Son Part 1</title>
       <description>Pierce Brown</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1Y4OthHU_tIOvTdFc684DH5vimK-QLFnc " length="743000000" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Y4OthHU_tIOvTdFc684DH5vimK-QLFnc" length="743000000" type="audio/mpeg"/>
       <guid>episode 3</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+
     </item>
 
     <item>
+
       <title>Red Rising Part 2</title>
       <description>Pierce Brown</description>
       <enclosure url="https://drive.google.com/uc?export=download&id=1WymGWVnaRrTOJmiTB0sdd5ZQ7wU2bA38" length="594900000" type="audio/mpeg"/>
       <guid>episode 2</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+
     </item>
 
     <item>
+
       <title>Red Rising Part 1</title>
       <description>Pierce Brown</description>
       <enclosure url="https://drive.google.com/uc?export=download&id=1OeHU2Grxt2_gxJmpg2_4xuWSMidWNsry" length="743100000" type="audio/mpeg"/>
       <guid>episode 1</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+
     </item>
 
   </channel>
+
 </rss>
