@@ -35,8 +35,8 @@
 
     <item>
 
-      <title>Golden Son Part 2</title>
-      <description>Pierce Brown</description>
+      <title>Gold-Hued Son Part 2</title>
+      <description> Book 2 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=16o5NZTsfqjFpTJ4QihEfJRfbwCjbl8iI" length="829500000" type="audio/mpeg"/>
       <guid>episode 4</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
@@ -45,8 +45,8 @@
 
     <item>
 
-      <title>Golden Son Part 1</title>
-      <description>Pierce Brown</description>
+      <title>Gold-Hued Son Part 1</title>
+      <description>Book 2 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y4OthHU_tIOvTdFc684DH5vimK-QLFnc" length="743000000" type="audio/mpeg"/>
       <guid>episode 3</guid>
       <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
@@ -55,22 +55,51 @@
 
     <item>
 
-      <title>Red Rising Part 2</title>
-      <description>Pierce Brown</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WymGWVnaRrTOJmiTB0sdd5ZQ7wU2bA38" length="594900000" type="audio/mpeg"/>
+      <title>Irish Rising Part 5</title>
+      <description>Book 1 in the tale about that red Irish dude</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ReDZKsko0RIYRWQFVuIMzePJlDTik7qJ" length="99100000" type="audio/mpeg"/>
       <guid>episode 2</guid>
-      <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+      <pubDate>Sun, 26 Jul 2026 1:10:00 GMT</pubDate>
 
     </item>
 
     <item>
 
-      <title>Red Rising Part 1</title>
-      <description>Pierce Brown</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OeHU2Grxt2_gxJmpg2_4xuWSMidWNsry" length="743100000" type="audio/mpeg"/>
-      <guid>episode 1</guid>
-      <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+      <title>Irish Rising Part 4</title>
+      <description>Book 1 in the tale about that red Irish dude</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C3w6IU67HnHojLQKQjCqdN9UlvB5usHf" length="99100000" type="audio/mpeg"/>
+      <guid>episode 2</guid>
+      <pubDate>Sun, 26 Jul 2026 1:09:00 GMT</pubDate>
 
+    </item>
+
+    <item>
+
+      <title>Irish Rising Part 3</title>
+      <description>Book 1 in the tale about that red Irish dude</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GEdrClXrrW097KxtlaQSK1Wi7bsa8IYD" length="82600000" type="audio/mpeg"/>
+      <guid>episode 2</guid>
+      <pubDate>Sun, 26 Jul 2026 1:08:00 GMT</pubDate>
+
+    </item>
+
+    <item>
+
+      <title>Irish Rising Part 2</title>
+      <description>Book 1 in the tale about that red Irish dude</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=142uQri3xyj6DMIHEpxb31B8MraY8YjWm" length="82600000" type="audio/mpeg"/>
+      <guid>episode 2</guid>
+      <pubDate>Sun, 26 Jul 2026 1:07:00 GMT</pubDate>
+         
+    </item>
+
+    <item>
+
+      <title>Irish Rising Part 1</title>
+      <description>Book 1 in the tale about that red Irish dude</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19rbcAgvfWgVHnEs8GMRhRS7v6kJDvYzU" length="82600000" type="audio/mpeg"/>
+      <guid>episode 1</guid>
+      <pubDate>Sun, 26 Jul 2026 1:06:00 GMT</pubDate>
     </item>
 
   </channel>
