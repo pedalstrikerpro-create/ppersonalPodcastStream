@@ -3,7 +3,7 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
-  <<channel>
+  <channel>
 
     <title>JCB A-Book Feed</title>
     <link>https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/risingFeed.xml</link>
