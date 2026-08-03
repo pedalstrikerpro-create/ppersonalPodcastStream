@@ -2,7 +2,7 @@
 
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
+<!-- Channel Info -->
   <channel>
 
     <title>JCB A-Book Feed</title>
@@ -24,8 +24,38 @@
     <itunes:image href="https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/IMG_6698.jpg"/>
 
 
+<!-- The Princess Bride -->
+    <item>
 
+      <title>The Princess Bride Vol 3</title>
+      <description> Princess Bride Vol 3</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XAMaFeRcY8TYGJN5xA4EO_nNWfzKO6nB" length="48100000" type="audio/mpeg"/>
+      <guid>episode 4</guid>
+      <pubDate>Sun, 2 Aug 2026 8:19:00 GMT</pubDate>
+
+    </item>
        
+    <item>
+
+      <title>The Princess Bride Vol 2</title>
+      <description> Princess Bride Vol 2</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13DcdQuAl6dP77jp9CfklyB5dohZCldA-" length="89300000" type="audio/mpeg"/>
+      <guid>episode 4</guid>
+      <pubDate>Sun, 2 Aug 2026 8:18:00 GMT</pubDate>
+
+    </item>
+
+    <item>
+
+      <title>The Princess Bride Vol 1</title>
+      <description> Princess Bride Vol 1</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t5fWHb8q6U4V_C0HixGMS4R8ymGf78zP" length="85800000" type="audio/mpeg"/>
+      <guid>episode 4</guid>
+      <pubDate>Sun, 2 Aug 2026 8:17:00 GMT</pubDate>
+
+    </item>
+
+<!-- Golden Son -->
     <item>
 
       <title>Gold-Hued Son Part 6</title>
@@ -86,6 +116,7 @@
 
     </item>
 
+<!-- Red Rising -->
     <item>
 
       <title>Red Rising Part 5</title>
