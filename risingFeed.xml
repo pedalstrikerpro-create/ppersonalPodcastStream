@@ -23,15 +23,6 @@
 
     <itunes:image href="https://pedalstrikerpro-create.github.io/ppersonalPodcastStream/IMG_6698.jpg"/>
 
-    <item>
-
-      <title> test </title>
-      <description>musica</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19ouaW03ZQGnJP0ID0rBsut1HukspvqsA" length="6100000" type="audio/mpeg"/>
-      <guid>episode 4</guid>
-      <pubDate>Mon, 26 Jul 2024 10:00:00 GMT</pubDate>
-
-    </item>
 
 
        
@@ -97,7 +88,7 @@
 
     <item>
 
-      <title>Irish Rising Part 5</title>
+      <title>Red Rising Part 5</title>
       <description>Book 1 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ReDZKsko0RIYRWQFVuIMzePJlDTik7qJ" length="99100000" type="audio/mpeg"/>
       <guid>episode 2</guid>
@@ -107,7 +98,7 @@
 
     <item>
 
-      <title>Irish Rising Part 4</title>
+      <title>Red Rising Part 4</title>
       <description>Book 1 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C3w6IU67HnHojLQKQjCqdN9UlvB5usHf" length="99100000" type="audio/mpeg"/>
       <guid>episode 2</guid>
@@ -117,7 +108,7 @@
 
     <item>
 
-      <title>Irish Rising Part 3</title>
+      <title>Red Rising Part 3</title>
       <description>Book 1 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GEdrClXrrW097KxtlaQSK1Wi7bsa8IYD" length="82600000" type="audio/mpeg"/>
       <guid>episode 2</guid>
@@ -127,7 +118,7 @@
 
     <item>
 
-      <title>Irish Rising Part 2</title>
+      <title>Red Rising Part 2</title>
       <description>Book 1 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=142uQri3xyj6DMIHEpxb31B8MraY8YjWm" length="82600000" type="audio/mpeg"/>
       <guid>episode 2</guid>
@@ -137,7 +128,7 @@
 
     <item>
 
-      <title>Irish Rising Part 1</title>
+      <title>Red Rising Part 1</title>
       <description>Book 1 in the tale about that red Irish dude</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19rbcAgvfWgVHnEs8GMRhRS7v6kJDvYzU" length="82600000" type="audio/mpeg"/>
       <guid>episode 1</guid>
